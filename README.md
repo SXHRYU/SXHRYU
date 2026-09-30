@@ -9,9 +9,9 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmalcevv@gmail.com)
-
-TODO: add 🥲<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Blog](https://img.shields.io/badge/Blog-D077B5?style=for-the-badge&logo=Go&logoColor=white)](https://devmalcevv.com/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/+447781791017)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devmalcevv)
 
 </div>
 
@@ -152,8 +152,7 @@ graph TB
 
 ### 🌟 *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."*
 
-TODO: add 🥲<br>
-**⭐️ [Your Golang/Python Developer](https://linkedin.com) ⭐️**
+**⭐️ [Your Golang/Python Developer](https://devmalcevv.com) ⭐️**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
